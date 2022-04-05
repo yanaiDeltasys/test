@@ -1,65 +1,65 @@
-yGitHubz
-@@https://github.co.jp/
+ã€GitHubã€‘
+ã€€ã€€https://github.co.jp/
 
-yƒTƒCƒ“ƒCƒ“î•ñz
-@@yanaiDeltasys
-@@UsernameFyanai@deltasys.co.jp
+ã€ã‚µã‚¤ãƒ³ã‚¤ãƒ³æƒ…å ±ã€‘
+ã€€ã€€yanaiDeltasys
+ã€€ã€€Usernameï¼šyanai@deltasys.co.jp
 
 
 -------------------------------------------------------
-ƒƒƒ‚„@ƒŠƒ|ƒWƒgƒŠ‚Ìì¬‚©‚çƒ\[ƒXC³•ƒ}[ƒW‚Ü‚Å
+ï¼œãƒ¡ãƒ¢ï¼žã€€ãƒªãƒã‚¸ãƒˆãƒªã®ä½œæˆã‹ã‚‰ã‚½ãƒ¼ã‚¹ä¿®æ­£ï¼†ãƒžãƒ¼ã‚¸ã¾ã§
 
- 1Dƒ[ƒJƒ‹PC
-@@EuGitvƒCƒ“ƒXƒg[ƒ‹@@@@@https://git-scm.com/@¦Downloads‚æ‚è
-@@EuSourcetreevƒCƒ“ƒXƒg[ƒ‹ @https://www.atlassian.com/ja/software/sourcetree@¦WindowsŒü‚¯ƒ_ƒEƒ“ƒ[ƒh
+ 1ï¼Žãƒ­ãƒ¼ã‚«ãƒ«PC
+ã€€ã€€ãƒ»ã€ŒGitã€ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã€€ã€€ã€€ã€€ã€€https://git-scm.com/ã€€â€»Downloadsã‚ˆã‚Š
+ã€€ã€€ãƒ»ã€ŒSourcetreeã€ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ« ã€€https://www.atlassian.com/ja/software/sourcetreeã€€â€»Windowså‘ã‘ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰
 
- 2DGitHub
-@@EƒŠƒ|ƒWƒgƒŠ‚ðì¬
-@@@¦Å‰‚Ìƒuƒ‰ƒ“ƒ`‚Íumasterv‚Å‚Í‚È‚­umainv‚É‚È‚Á‚Ä‚¢‚é‚Ì‚Å’ˆÓ
+ 2ï¼ŽGitHub
+ã€€ã€€ãƒ»ãƒªãƒã‚¸ãƒˆãƒªã‚’ä½œæˆ
+ã€€ã€€ã€€â€»æœ€åˆã®ãƒ–ãƒ©ãƒ³ãƒã¯ã€Œmasterã€ã§ã¯ãªãã€Œmainã€ã«ãªã£ã¦ã„ã‚‹ã®ã§æ³¨æ„
 
- 3Dƒ[ƒJƒ‹PC
-@ESSHiŒöŠJŒ®j‚ðì¬
-@@¨‚»‚ÌÛAƒpƒXƒtƒŒ[ƒY‚à“o˜^‚ª•K—v
+ 3ï¼Žãƒ­ãƒ¼ã‚«ãƒ«PC
+ã€€ãƒ»SSHï¼ˆå…¬é–‹éµï¼‰ã‚’ä½œæˆ
+ã€€ã€€â†’ãã®éš›ã€ãƒ‘ã‚¹ãƒ•ãƒ¬ãƒ¼ã‚ºã‚‚ç™»éŒ²ãŒå¿…è¦
 
- 4DGitHub
-@@¨uÝ’èv¨uSSH and GPG Keysv‚ÅAã‹L2D‚ÌSSH‚ð“o˜^
+ 4ï¼ŽGitHub
+ã€€ã€€â†’ã€Œè¨­å®šã€â†’ã€ŒSSH and GPG Keysã€ã§ã€ä¸Šè¨˜2ï¼Žã®SSHã‚’ç™»éŒ²
 
- 5Dƒ[ƒJƒ‹PC
-@@¨uGitHubv‚ÌƒŠƒ|ƒWƒgƒŠ‚æ‚èAƒNƒ[ƒ“‚ðŽæ“¾‚µƒ[ƒJƒ‹ƒŠƒ|ƒWƒgƒŠ‚ðì¬
-@@Eugit clone git@github.com:xxxxxxxxx/xxxxxxxx.gitv
+ 5ï¼Žãƒ­ãƒ¼ã‚«ãƒ«PC
+ã€€ã€€â†’ã€ŒGitHubã€ã®ãƒªãƒã‚¸ãƒˆãƒªã‚ˆã‚Šã€ã‚¯ãƒ­ãƒ¼ãƒ³ã‚’å–å¾—ã—ãƒ­ãƒ¼ã‚«ãƒ«ãƒªãƒã‚¸ãƒˆãƒªã‚’ä½œæˆ
+ã€€ã€€ãƒ»ã€Œgit clone git@github.com:xxxxxxxxx/xxxxxxxx.gitã€
 
- 6Dƒ[ƒJƒ‹PC
-@@¨ƒ[ƒJƒ‹ƒuƒ‰ƒ“ƒ`‚ðì¬
-@@@ugit branch xxxxxxv@¦xxxxxx‚Íƒuƒ‰ƒ“ƒ`–¼
-@@@¦ƒuƒ‰ƒ“ƒ`–¼‚Ì–½–¼‹K–ñ‚Í—v‘Š’k
+ 6ï¼Žãƒ­ãƒ¼ã‚«ãƒ«PC
+ã€€ã€€â†’ãƒ­ãƒ¼ã‚«ãƒ«ãƒ–ãƒ©ãƒ³ãƒã‚’ä½œæˆ
+ã€€ã€€ã€€ã€Œgit branch xxxxxxã€ã€€â€»xxxxxxã¯ãƒ–ãƒ©ãƒ³ãƒå
+ã€€ã€€ã€€â€»ãƒ–ãƒ©ãƒ³ãƒåã®å‘½åè¦ç´„ã¯è¦ç›¸è«‡
 
-@@@ƒuƒ‰ƒ“ƒ`‚Ìì¬•û–@‚ð‚Ç‚Ì‚æ‚¤‚És‚¤‚©@¦—v‘Š’k
-@@@‡@2.‚ÅƒŠƒ|ƒWƒgƒŠ‚ðì¬‚µ‚½Û‚ÉŽ©“®‚Åumainv‚Æ‚¢‚¤ƒuƒ‰ƒ“ƒ`‚ªì¬‚³‚ê‚é
-@@@‡Aumainv‚ÍÅIƒ}[ƒW‚Æ‚·‚é•ûŒü‚Ål‚¦A
-@@@@ŠJ”­’†‚Íumainv‚Æ‚Í•Ê‚Éureleasev‚âudevelv‚ðì‚é•K—v‚ª‚ ‚é‚Æl‚¦‚é
-@@@‡BŠeƒuƒ‰ƒ“ƒ`‚Íg‹@”\•Êh‚Æ‚·‚é•û‚ª—Ç‚¢‚Æl‚¦‚é
-@@@@¦ƒRƒ“ƒtƒŠƒNƒgiÕ“Ëj‚Ì‰Â”\«‚ª’á‚­‚È‚é‚½‚ß
+ã€€ã€€ã€€ãƒ–ãƒ©ãƒ³ãƒã®ä½œæˆæ–¹æ³•ã‚’ã©ã®ã‚ˆã†ã«è¡Œã†ã‹ã€€â€»è¦ç›¸è«‡
+ã€€ã€€ã€€â‘ 2.ã§ãƒªãƒã‚¸ãƒˆãƒªã‚’ä½œæˆã—ãŸéš›ã«è‡ªå‹•ã§ã€Œmainã€ã¨ã„ã†ãƒ–ãƒ©ãƒ³ãƒãŒä½œæˆã•ã‚Œã‚‹
+ã€€ã€€ã€€â‘¡ã€Œmainã€ã¯æœ€çµ‚ãƒžãƒ¼ã‚¸ã¨ã™ã‚‹æ–¹å‘ã§è€ƒãˆã€
+ã€€ã€€ã€€ã€€é–‹ç™ºä¸­ã¯ã€Œmainã€ã¨ã¯åˆ¥ã«ã€Œreleaseã€ã‚„ã€Œdevelã€ã‚’ä½œã‚‹å¿…è¦ãŒã‚ã‚‹ã¨è€ƒãˆã‚‹
+ã€€ã€€ã€€â‘¢å„ãƒ–ãƒ©ãƒ³ãƒã¯â€œæ©Ÿèƒ½åˆ¥â€ã¨ã™ã‚‹æ–¹ãŒè‰¯ã„ã¨è€ƒãˆã‚‹
+ã€€ã€€ã€€ã€€â€»ã‚³ãƒ³ãƒ•ãƒªã‚¯ãƒˆï¼ˆè¡çªï¼‰ã®å¯èƒ½æ€§ãŒä½Žããªã‚‹ãŸã‚
 
-@@¨ƒuƒ‰ƒ“ƒ`‚ðØ‚è‘Ö‚¦
-@@@ugit checkout xxxxxxv
+ã€€ã€€â†’ãƒ–ãƒ©ãƒ³ãƒã‚’åˆ‡ã‚Šæ›¿ãˆ
+ã€€ã€€ã€€ã€Œgit checkout xxxxxxã€
 
-@@@@``@ƒ\[ƒXC³@``
+ã€€ã€€ã€€ã€€ï½žï½žã€€ã‚½ãƒ¼ã‚¹ä¿®æ­£ã€€ï½žï½ž
 
-@@¨C³“à—e‚ðŠm’è‚µƒRƒ~ƒbƒg
-@@@ugit add .v@¦ŒÂ•Ê‚É‚â‚éê‡‚Íu.v‚ðŒÂ•Ê‚Ìƒtƒ@ƒCƒ‹‚Ü‚½‚ÍƒtƒHƒ‹ƒ_‚ðŽw’è
-@@@ugit commit -m "ƒRƒƒ“ƒg‚ðŽw’è"v@¦C³“à—e‚ðƒRƒƒ“ƒg‚·‚é
+ã€€ã€€â†’ä¿®æ­£å†…å®¹ã‚’ç¢ºå®šã—ã‚³ãƒŸãƒƒãƒˆ
+ã€€ã€€ã€€ã€Œgit add .ã€ã€€â€»å€‹åˆ¥ã«ã‚„ã‚‹å ´åˆã¯ã€Œ.ã€ã‚’å€‹åˆ¥ã®ãƒ•ã‚¡ã‚¤ãƒ«ã¾ãŸã¯ãƒ•ã‚©ãƒ«ãƒ€ã‚’æŒ‡å®š
+ã€€ã€€ã€€ã€Œgit commit -m "ã‚³ãƒ¡ãƒ³ãƒˆã‚’æŒ‡å®š"ã€ã€€â€»ä¿®æ­£å†…å®¹ã‚’ã‚³ãƒ¡ãƒ³ãƒˆã™ã‚‹
 
-@@¨C³‚µ‚½ƒuƒ‰ƒ“ƒ`‚ðpush
-@@@ugit push origin xxxxxxv
+ã€€ã€€â†’ä¿®æ­£ã—ãŸãƒ–ãƒ©ãƒ³ãƒã‚’push
+ã€€ã€€ã€€ã€Œgit push origin xxxxxxã€
 
- 7DGitHub
-@@¨ƒvƒ‹ƒŠƒNƒGƒXƒg‚ð\¿
-@@¨“à—e‚ðƒ`ƒFƒbƒN‚µAOK‚Å‚ ‚ê‚Îƒ}[ƒW
+ 7ï¼ŽGitHub
+ã€€ã€€â†’ãƒ—ãƒ«ãƒªã‚¯ã‚¨ã‚¹ãƒˆã‚’ç”³è«‹
+ã€€ã€€â†’å†…å®¹ã‚’ãƒã‚§ãƒƒã‚¯ã—ã€OKã§ã‚ã‚Œã°ãƒžãƒ¼ã‚¸
 
- 8Dƒ[ƒJƒ‹PC
-@@¨ƒ}[ƒW‚µ‚½“à—e‚ðŽæ“¾
-@@@ugit pull origin mainv
+ 8ï¼Žãƒ­ãƒ¼ã‚«ãƒ«PC
+ã€€ã€€â†’ãƒžãƒ¼ã‚¸ã—ãŸå†…å®¹ã‚’å–å¾—
+ã€€ã€€ã€€ã€Œgit pull origin mainã€
 
-@@¨ƒ[ƒJƒ‹ƒuƒ‰ƒ“ƒ`ˆÈŠO‚Ìƒuƒ‰ƒ“ƒ`‚ðŽæ“¾
-@@@ugit fetch originv
+ã€€ã€€â†’ãƒ­ãƒ¼ã‚«ãƒ«ãƒ–ãƒ©ãƒ³ãƒä»¥å¤–ã®ãƒ–ãƒ©ãƒ³ãƒã‚’å–å¾—
+ã€€ã€€ã€€ã€Œgit fetch originã€
 
