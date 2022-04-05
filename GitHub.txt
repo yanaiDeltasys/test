@@ -1,0 +1,65 @@
+【GitHub】
+　　https://github.co.jp/
+
+【サインイン情報】
+　　yanaiDeltasys
+　　Username：yanai@deltasys.co.jp
+
+
+-------------------------------------------------------
+＜メモ＞　リポジトリの作成からソース修正＆マージまで
+
+ 1．ローカルPC
+　　・「Git」インストール　　　　　https://git-scm.com/　※Downloadsより
+　　・「Sourcetree」インストール 　https://www.atlassian.com/ja/software/sourcetree　※Windows向けダウンロード
+
+ 2．GitHub
+　　・リポジトリを作成
+　　　※最初のブランチは「master」ではなく「main」になっているので注意
+
+ 3．ローカルPC
+　・SSH（公開鍵）を作成
+　　→その際、パスフレーズも登録が必要
+
+ 4．GitHub
+　　→「設定」→「SSH and GPG Keys」で、上記2．のSSHを登録
+
+ 5．ローカルPC
+　　→「GitHub」のリポジトリより、クローンを取得しローカルリポジトリを作成
+　　・「git clone git@github.com:xxxxxxxxx/xxxxxxxx.git」
+
+ 6．ローカルPC
+　　→ローカルブランチを作成
+　　　「git branch xxxxxx」　※xxxxxxはブランチ名
+　　　※ブランチ名の命名規約は要相談
+
+　　　ブランチの作成方法をどのように行うか　※要相談
+　　　①2.でリポジトリを作成した際に自動で「main」というブランチが作成される
+　　　②「main」は最終マージとする方向で考え、
+　　　　開発中は「main」とは別に「release」や「devel」を作る必要があると考える
+　　　③各ブランチは“機能別”とする方が良いと考える
+　　　　※コンフリクト（衝突）の可能性が低くなるため
+
+　　→ブランチを切り替え
+　　　「git checkout xxxxxx」
+
+　　　　～～　ソース修正　～～
+
+　　→修正内容を確定しコミット
+　　　「git add .」　※個別にやる場合は「.」を個別のファイルまたはフォルダを指定
+　　　「git commit -m "コメントを指定"」　※修正内容をコメントする
+
+　　→修正したブランチをpush
+　　　「git push origin xxxxxx」
+
+ 7．GitHub
+　　→プルリクエストを申請
+　　→内容をチェックし、OKであればマージ
+
+ 8．ローカルPC
+　　→マージした内容を取得
+　　　「git pull origin main」
+
+　　→ローカルブランチ以外のブランチを取得
+　　　「git fetch origin」
+
